@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# ==========================================
-# PREGĂTIRE ȘI LOGARE
-# ==========================================
 EXIT_CODE=0
 mkdir -p logs
 LOG_FILE="logs/fileops.log"
