@@ -1,5 +1,0 @@
---- Modificări sau Adăugări ---
-[MODIFICAT] src/fileops_indexer.c (Dimensiune nouă: 2174)
-[MODIFICAT] src/test_t3.c (Dimensiune nouă: 14)
-
---- Ștergeri ---

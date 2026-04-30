@@ -1,8 +1,0 @@
---- Procese Noi / Schimbare de Stare ---
-[PROCES NOU] PID 4949 (fileops.sh)
-[PROCES NOU] PID 4952 (proc_snapshot)
-
---- Procese Închise ---
-[PROCES ÎNCHIS] PID 4178 (kworker/u33:1-ttm)
-[PROCES ÎNCHIS] PID 4937 (fileops.sh)
-[PROCES ÎNCHIS] PID 4940 (proc_snapshot)
